@@ -14,7 +14,7 @@ Addition.c-This program performs addition of two numbers.
 
 Subtraction.c-This program performs subtraction of two numbers.
 
-Multi:Division-This program performs multiplication and division of two numbers.
+Multi:Division.c-This program performs multiplication and division of two numbers.
 
 Remainder.c-This program gives remainder by division of two numbers.
 
