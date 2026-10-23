@@ -4,7 +4,7 @@ Name-Allada Bhavitha Sri Sai Yashwitha
 Registration number-26BV1A05008
 
 Purpose of the repository-
-This repository serves as a record of my lab experiments.It helps in improving my programming skills and logical thinking.
+This repository serves as a record of my lab experiments week wise.
 
 List of programs included-
 
