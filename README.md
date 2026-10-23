@@ -42,8 +42,11 @@ Week-4:
 
 Expressions.c-This program evaluates the following expressions
                a. A+B*C+(D*E) + F*G
+               
                b. A/B*C-B+A*D/3
+               
                c. A+++B---A
+           
                d. J= (i++) + (++i)
                
 Max3.c-This program is to find maximum of three numbers.
