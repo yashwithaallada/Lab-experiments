@@ -41,6 +41,7 @@ Distance.c-This program calculates the distance travelled by an object.
 Week-4:
 
 Expressions.c-This program evaluates the following expressions
+
                a. A+B*C+(D*E) + F*G
                
                b. A/B*C-B+A*D/3
